@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The World/Notable People/NPCs/Neutral/Manor Lord Ardwin.md",
+                "file": "The World/Mythos/Folklore & Conjecture/The Blight.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Manor Lord Ardwin"
+              "title": "The Blight"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The World/Notable People/NPCs/Neutral/Manor Lord Ardwin.md",
+                "file": "The World/Mythos/Folklore & Conjecture/The Blight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Manor Lord Ardwin"
+              "title": "Backlinks for The Blight"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The World/Notable People/NPCs/Neutral/Manor Lord Ardwin.md",
+                "file": "The World/Mythos/Folklore & Conjecture/The Blight.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Manor Lord Ardwin"
+              "title": "Outgoing links from The Blight"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The World/Notable People/NPCs/Neutral/Manor Lord Ardwin.md",
+                "file": "The World/Mythos/Folklore & Conjecture/The Blight.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Manor Lord Ardwin"
+              "title": "Outline of The Blight"
             }
           },
           {
@@ -197,8 +197,11 @@
   },
   "active": "1380862e787a8b74",
   "lastOpenFiles": [
-    "Journal on Theo's Experiences/Shipwrecked - Amakaru.md",
+    "The World/Mythos/Leviathans/Leviathan of Amakaru.md",
+    "The World/Mythos/Leviathans/Seraphims.md",
+    "The World/Mythos/Folklore & Conjecture/The Blight.md",
     "The World/Notable People/NPCs/Neutral/Manor Lord Ardwin.md",
+    "Journal on Theo's Experiences/Shipwrecked - Amakaru.md",
     "The World/Notable People/Players/Regular Notes/Vivienne the Coward.md",
     "The World/Notable People/Players/Regular Notes/Lemuel Sanguine.md",
     "The World/Notable People/Players/Regular Notes/Avery Vale.md",
@@ -208,8 +211,6 @@
     "The World/Notable People/NPCs/Crewmates/Melissa Aligar.md",
     "The World/Notable People/NPCs/Crewmates/Sheera Arrendale.md",
     "The World/Mythos/Mythological People/Alune.md",
-    "The World/Mythos/Leviathans/Leviathan of Amakaru.md",
-    "The World/Mythos/Folklore & Conjecture/The Blight.md",
     "Blight.md",
     "The World/Mythos/Leviathans",
     "The World/Organizations/United Natural Order Coalition.md",
