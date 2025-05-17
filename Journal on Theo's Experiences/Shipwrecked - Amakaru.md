@@ -6,9 +6,8 @@
 	- Addendum - It seems like this figure is [[Alune]], who is said to be the Mother of the Leviathans. But what is her connection to me? What does she want me to remember?
 - [[Sons of Fire]] were encountered on the island of Amakaru after they assaulted our fleet of ships. They were the people who took down our fleet of ships to kidnap the representative of the Church of Salt, [[Melissa Aligar]], who is needed to enter the Trial of Salt. 
 	- Believes that the Church of Salt isn't enough to save Eilanaat and would rather restart the world
-	- 
+	- Proclaimed their beliefs that the Church of Salt isn't enough to save Eilanaat and would rather restart the world
     
-- **Roland Dockson**: Theo's Colleague
     
 - **Melissa** **Aligar****:** Cleric of Salt that traveled on Avery's ship; she is being sought out by the Sons of Flames
     
