@@ -14,4 +14,9 @@ _"Our journey continues through Amakaru. There have been barely any signs of lif
 - We traversed through a mine on the way to the Town of Amakaru. There was a [[Lock]] in the mines
 	- [[Kyrie River Ford|Ford]] was pulled into the Lock by the mysterious forces from the other side of the door but was stopped before she could go through. She  claims she was mind controlled to get pulled into the Lock, but she also expressed interest to talk to the being behind the Lock. 
 	- A mysterious eye looked at the group through a hole in the lock. Does psychic damage
-	- We found a note mentioning Manor Lord Ardwin discussing how the deepspeakers wanted to seal the Lock
+	- We found a note mentioning [[Manor Lord Ardwin]] discussing how the deepspeakers wanted to seal the Lock
+	- There was a crack in the lock
+- Those who resided in the Town of Amakaru was found to be in a magically induced slumber. It seemed like they were asleep for a few days, and, if left in that state for a few more days, would die
+	- It seemed to have been related to the crack in the Lock we had discovered
+	- We found our captain, [[Sheera Arrendale]], at Lord Ardwin's manor asleep. Seeing we needed her to start our journey, we set out to a small, unnamed Archipelago to seek out an alchemist that could help 
+	- While resting in the town, 
