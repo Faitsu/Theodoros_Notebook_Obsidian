@@ -1,4 +1,4 @@
- A cleric from the Trial of Salt who was recruited
+ A cleric from the [[Church of Salt]] who was recruited to be the church's representative for the Voyager for the [[Trial of Salt]]
  
 -Apparently, Avery had seen them before on the ship she was on. She was currently being hunted by Sons of Fire.
         

@@ -13,32 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The World/Notable People/NPCs/Crewmates/Melissa Aligar.md",
+                "file": "The World/Organizations/Church of Salt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Melissa Aligar"
-            }
-          }
-        ]
-      },
-      {
-        "id": "92e8c5996250de9c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "15a2ebdc4bd6b816",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The World/Places/Islands of Eilanaat/Amakaru.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Amakaru"
+              "title": "Church of Salt"
             }
           }
         ]
@@ -114,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The World/Notable People/NPCs/Crewmates/Melissa Aligar.md",
+                "file": "The World/Organizations/Church of Salt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Melissa Aligar"
+              "title": "Backlinks for Church of Salt"
             }
           },
           {
@@ -133,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The World/Notable People/NPCs/Crewmates/Melissa Aligar.md",
+                "file": "The World/Organizations/Church of Salt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Melissa Aligar"
+              "title": "Outgoing links from Church of Salt"
             }
           },
           {
@@ -162,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The World/Notable People/NPCs/Crewmates/Melissa Aligar.md",
+                "file": "The World/Organizations/Church of Salt.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Melissa Aligar"
+              "title": "Outline of Church of Salt"
             }
           },
           {
@@ -202,6 +182,9 @@
   },
   "active": "04b7b2144b01eb2a",
   "lastOpenFiles": [
+    "The World/Notable People/NPCs/Crewmates/Melissa Aligar.md",
+    "The World/Organizations/Church of Salt.md",
+    "The World/Places/Islands of Eilanaat/Amakaru.md",
     "Journal on Theo's Experiences/Shipwrecked - Amakaru.md",
     "The World/Mythos/Mythological People/Alune.md",
     "The World/Events/Trial of Salt.md",
@@ -212,14 +195,12 @@
     "The World/Places/Islands of Eilanaat",
     "The World/Events",
     "Metagame Notes",
-    "The World/Places/Islands of Eilanaat/Amakaru.md",
     "The World/Places/Islands of Eilanaat/Portabora.md",
     "The World/Organizations/Sons of Fire.md",
     "The World/Notable People/NPCs/Crewmates/Roland Dockson.md",
     "The World/Notable People/NPCs/Allies",
     "The World/Notable People/NPCs/Neutral",
     "The World/Notable People/NPCs/Enemies",
-    "The World/Notable People/NPCs/Crewmates/Melissa Aligar.md",
     "Welcome.md"
   ]
 }
