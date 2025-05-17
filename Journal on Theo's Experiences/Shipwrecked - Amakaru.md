@@ -10,6 +10,8 @@ _"Our journey continues through Amakaru. There have been barely any signs of lif
 	- Proclaimed their beliefs that the Church of Salt isn't enough to save Eilanaat and would rather restart the world
 - We found the [[Leviathan of Amakaru]] dead as we were trying to find a town to seek help and find our captain, . The leviathan seemed to have died to the [[The Blight|Blight]], which has been affecting all the Leviathans
 	- There were a few [[Deepspeakers]] who were eating the corpse of the Leviathan and died shortly after. 
+	- Groupmates seemed interested in taking parts of the dead leviathan
+- We traversed through a mine on the way to the Town of Amakaru. In the mine seemed to be a [[Lock]]
     
 - **Captain Sheera Arrendale**: Captain of the Voyagers. Has planned to organize the group. Kyrie seems to know her.
     

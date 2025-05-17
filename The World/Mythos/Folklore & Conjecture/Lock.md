@@ -1,0 +1,5 @@
+---
+aliases:
+  - The Lock
+  - Locks
+---
