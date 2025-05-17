@@ -8,10 +8,8 @@ _"Our journey continues through Amakaru. There have been barely any signs of lif
 - [[Sons of Fire]] were encountered on the island of Amakaru after they assaulted our fleet of ships. They were the people who took down our fleet of ships to kidnap the representative of the Church of Salt, [[Melissa Aligar]], who is needed to enter the Trial of Salt. 
 	- Believes that the Church of Salt isn't enough to save Eilanaat and would rather restart the world
 	- Proclaimed their beliefs that the Church of Salt isn't enough to save Eilanaat and would rather restart the world
-- We found the [[Leviathan of Amakaru]] dead as we were trying to find a town to seek help and find our captain. There were many 
-    
-        
-- **Clerics of Salt:** Grants us the right to participate in the Trial of Salt.
+- We found the [[Leviathan of Amakaru]] dead as we were trying to find a town to seek help and find our captain, . The leviathan seemed to have died to the [[The Blight|Blight]], which has been affecting all the Leviathans
+	- There were a few [[Deepspeakers]] who were eating the corpse of the Leviathan and died shortly after. 
     
 - **Captain Sheera Arrendale**: Captain of the Voyagers. Has planned to organize the group. Kyrie seems to know her.
     

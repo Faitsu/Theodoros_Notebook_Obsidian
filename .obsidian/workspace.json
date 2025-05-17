@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal on Theo's Experiences/Shipwrecked - Amakaru.md",
+                "file": "The World/Notable People/NPCs/Crewmates/Melissa Aligar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shipwrecked - Amakaru"
+              "title": "Melissa Aligar"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal on Theo's Experiences/Shipwrecked - Amakaru.md",
+                "file": "The World/Notable People/NPCs/Crewmates/Melissa Aligar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Shipwrecked - Amakaru"
+              "title": "Backlinks for Melissa Aligar"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal on Theo's Experiences/Shipwrecked - Amakaru.md",
+                "file": "The World/Notable People/NPCs/Crewmates/Melissa Aligar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Shipwrecked - Amakaru"
+              "title": "Outgoing links from Melissa Aligar"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal on Theo's Experiences/Shipwrecked - Amakaru.md",
+                "file": "The World/Notable People/NPCs/Crewmates/Melissa Aligar.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Shipwrecked - Amakaru"
+              "title": "Outline of Melissa Aligar"
             }
           },
           {
@@ -182,8 +182,16 @@
   },
   "active": "04b7b2144b01eb2a",
   "lastOpenFiles": [
-    "The World/Mythos/Mythological People/Alune.md",
+    "The World/Notable People/NPCs/Crewmates/Roland Dockson.md",
+    "The World/Notable People/NPCs/Crewmates/Sheera Arrendale.md",
     "Journal on Theo's Experiences/Shipwrecked - Amakaru.md",
+    "The World/Mythos/Mythological People/Alune.md",
+    "The World/Mythos/Leviathans/Leviathan of Amakaru.md",
+    "The World/Mythos/Folklore & Conjecture/The Blight.md",
+    "Blight.md",
+    "The World/Mythos/Leviathans",
+    "The World/Organizations/United Natural Order Coalition.md",
+    "The World/Organizations/Deepspeakers.md",
     "The World/Organizations/Church of Salt.md",
     "The World/Notable People/NPCs/Crewmates/Melissa Aligar.md",
     "The World/Places/Islands of Eilanaat/Amakaru.md",
@@ -197,10 +205,8 @@
     "Metagame Notes",
     "The World/Places/Islands of Eilanaat/Portabora.md",
     "The World/Organizations/Sons of Fire.md",
-    "The World/Notable People/NPCs/Crewmates/Roland Dockson.md",
     "The World/Notable People/NPCs/Allies",
     "The World/Notable People/NPCs/Neutral",
-    "The World/Notable People/NPCs/Enemies",
     "Welcome.md"
   ]
 }

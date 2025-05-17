@@ -1,5 +1,5 @@
  A cleric from the [[Church of Salt]] who was recruited to be the church's representative for the Voyager for the [[Trial of Salt]]
  
--Apparently, Avery had seen them before on the ship she was on. She was currently being hunted by Sons of Fire.
-        
-    - It was recently confirmed to be captured by Sons of Flames. She is being held in a prison on Margrave near the northeast
+ ## Notable Relationships 
+ - [[Avery]] knew her from their initial travels together to Amakaru
+ - The [[Sons of Fire]] kidnapped her and used her to enter the Trial of Salt
