@@ -8,4 +8,6 @@ A mysterious disease that seems to have been afflicting the leviathans of Eilnaa
 
 It seems to be affecting the Leviathans at different rates
 - [[Leviathan of Amakaru]] - Dead
-- [[Seraphims]] 
+- [[Seraphims]] - One seems to be in the late stages of infection. The others do not show signs
+- [[The Volcano, Magnibora|Magnibora]] & [[The Caretaker, Hami'Toa|Hami'Toa]] - Show no signs of infection. Magnibora should be looked after after eating the flesh of the dead leviathan
+- 
