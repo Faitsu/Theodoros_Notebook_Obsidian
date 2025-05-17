@@ -1,0 +1,10 @@
+{
+  "markdown:add-alias": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "Tab"
+    }
+  ]
+}

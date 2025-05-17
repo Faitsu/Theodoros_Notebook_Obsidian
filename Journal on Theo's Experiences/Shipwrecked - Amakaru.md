@@ -11,16 +11,5 @@ _"Our journey continues through Amakaru. There have been barely any signs of lif
 - We found the [[Leviathan of Amakaru]] dead as we were trying to find a town to seek help and find our captain, . The leviathan seemed to have died to the [[The Blight|Blight]], which has been affecting all the Leviathans
 	- There were a few [[Deepspeakers]] who were eating the corpse of the Leviathan and died shortly after. 
 	- Groupmates seemed interested in taking parts of the dead leviathan
-- We traversed through a mine on the way to the Town of Amakaru. In the mine seemed to be a [[Lock]]
-    
-- **Captain Sheera Arrendale**: Captain of the Voyagers. Has planned to organize the group. Kyrie seems to know her.
-    
-    - She was found in the manor in a magically induced slumber. Like the rest of the townsfolk here on Amakura, nothing seems to wake her up.
-        
-    - She is a Kenku, which is a rare species of humanoid birds
-        
-- **Town of Amakura:** A mining town that's by the Manor
-    
-    - Everyone here was found to be in a magically induced slumber. They have been asleep for at least a few days.
-        
-    - Is known for their ability to forge Mithril
+- We traversed through a mine on the way to the Town of Amakaru. There was a [[Lock]] in the mines
+	- [[]] was pulled into the Lock by the mysterious forces from the other side of the door but was stopped before she could go through.

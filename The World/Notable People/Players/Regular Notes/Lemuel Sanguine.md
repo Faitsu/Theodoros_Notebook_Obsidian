@@ -1,0 +1,6 @@
+---
+aliases:
+  - Lemuel
+  - Sanguine
+  - Boy
+---
