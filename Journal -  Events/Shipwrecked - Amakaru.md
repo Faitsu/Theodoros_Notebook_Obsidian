@@ -1,11 +1,11 @@
 
-*"All five of our ships were sunk. There are mysterious and hostile cultists looking to burn the world. The Leviathan is dead. What is happening to the state of Eilnaat?" -Theodoros Delphi*
+*"All five of our ships were sunk. There are mysterious and hostile cultists looking to burn the world. The Leviathan is dead. What is happening to the state of Eilanaat?" -Theodoros Delphi*
 
-- **Sons of Fire:** Believes that the Church of Salt isn't enough to save Eilnaat and would rather restart the world
+- [[**Sons of Fire:**]] Believes that the Church of Salt isn't enough to save Eilanaat and would rather restart the world
     
 - **Roland Dockson**: Theo's Colleague
     
-- **Melissa** **Aligar****:** Cleric of Salt that traveled on Aviery's ship; she is being sought out by the Sons of Flames
+- **Melissa** **Aligar****:** Cleric of Salt that traveled on Avery's ship; she is being sought out by the Sons of Flames
     
     - Apparently, Avery had seen them before on the ship she was on. She was currently being hunted by Sons of Fire.
         

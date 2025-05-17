@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal -  Events/Shipwrecked - Amekaru.md",
+                "file": "Journal -  Events/Shipwrecked - Amakaru.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shipwrecked - Amekaru"
+              "title": "Shipwrecked - Amakaru"
             }
           }
         ]
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal -  Events/Shipwrecked - Amekaru.md",
+                "file": "Journal -  Events/Shipwrecked - Amakaru.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Shipwrecked - Amekaru"
+              "title": "Backlinks for Shipwrecked - Amakaru"
             }
           },
           {
@@ -129,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal -  Events/Shipwrecked - Amekaru.md",
+                "file": "Journal -  Events/Shipwrecked - Amakaru.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Shipwrecked - Amekaru"
+              "title": "Outgoing links from Shipwrecked - Amakaru"
             }
           },
           {
@@ -158,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal -  Events/Shipwrecked - Amekaru.md",
+                "file": "Journal -  Events/Shipwrecked - Amakaru.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Shipwrecked - Amekaru"
+              "title": "Outline of Shipwrecked - Amakaru"
             }
           },
           {
@@ -198,18 +198,20 @@
   },
   "active": "04b7b2144b01eb2a",
   "lastOpenFiles": [
+    "The World/Notable People/NPCs/Crewmates/Roland Dockson.md",
+    "The World/Notable People/NPCs/Allies",
+    "The World/Notable People/NPCs/Neutral",
+    "The World/Notable People/NPCs/Enemies",
+    "The World/Notable People/NPCs/Crewmates/Melissa Aligar.md",
+    "The World/Notable People/NPCs/Crewmates",
+    "The World/Organizations/Sons of Fire.md",
+    "Journal -  Events/Shipwrecked - Amakaru.md",
     "Metagaming",
     "Opinions & Thoughts",
     "The World",
     "The World/Creatures",
     "The World/Organizations",
     "The World/Places",
-    "The World/Notable People/Players/Private",
-    "The World/Notable People/Players/Regular Notes",
-    "The World/Notable People/Players",
-    "The World/Notable People/NPCs",
-    "The World/Notable People",
-    "Welcome.md",
-    "Journal -  Events/Shipwrecked - Amekaru.md"
+    "Welcome.md"
   ]
 }
