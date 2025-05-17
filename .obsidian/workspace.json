@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The World/Organizations/Church of Salt.md",
+                "file": "Journal on Theo's Experiences/Shipwrecked - Amakaru.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Church of Salt"
+              "title": "Shipwrecked - Amakaru"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The World/Organizations/Church of Salt.md",
+                "file": "Journal on Theo's Experiences/Shipwrecked - Amakaru.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Church of Salt"
+              "title": "Backlinks for Shipwrecked - Amakaru"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The World/Organizations/Church of Salt.md",
+                "file": "Journal on Theo's Experiences/Shipwrecked - Amakaru.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Church of Salt"
+              "title": "Outgoing links from Shipwrecked - Amakaru"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The World/Organizations/Church of Salt.md",
+                "file": "Journal on Theo's Experiences/Shipwrecked - Amakaru.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Church of Salt"
+              "title": "Outline of Shipwrecked - Amakaru"
             }
           },
           {
@@ -182,8 +182,8 @@
   },
   "active": "04b7b2144b01eb2a",
   "lastOpenFiles": [
-    "The World/Notable People/NPCs/Crewmates/Melissa Aligar.md",
     "The World/Organizations/Church of Salt.md",
+    "The World/Notable People/NPCs/Crewmates/Melissa Aligar.md",
     "The World/Places/Islands of Eilanaat/Amakaru.md",
     "Journal on Theo's Experiences/Shipwrecked - Amakaru.md",
     "The World/Mythos/Mythological People/Alune.md",
