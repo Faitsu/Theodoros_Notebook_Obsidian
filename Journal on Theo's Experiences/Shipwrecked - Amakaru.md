@@ -9,11 +9,6 @@
 	- Proclaimed their beliefs that the Church of Salt isn't enough to save Eilanaat and would rather restart the world
     
     
-- **Melissa** **Aligar****:** Cleric of Salt that traveled on Avery's ship; she is being sought out by the Sons of Flames
-    
-    - Apparently, Avery had seen them before on the ship she was on. She was currently being hunted by Sons of Fire.
-        
-    - It was recently confirmed to be captured by Sons of Flames. She is being held in a prison on Margrave near the northeast
         
 - **Clerics of Salt:** Grants us the right to participate in the Trial of Salt.
     
