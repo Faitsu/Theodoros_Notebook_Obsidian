@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal -  Events/Shipwrecked - Amakaru.md",
+                "file": "Journal on Theo's Experiences/Shipwrecked - Amakaru.md",
                 "mode": "source",
                 "source": false
               },
@@ -31,10 +31,14 @@
             "id": "15a2ebdc4bd6b816",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "The World/Places/Islands of Eilanaat/Amakaru.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Amakaru"
             }
           }
         ]
@@ -110,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal -  Events/Shipwrecked - Amakaru.md",
+                "file": "Journal on Theo's Experiences/Shipwrecked - Amakaru.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal -  Events/Shipwrecked - Amakaru.md",
+                "file": "Journal on Theo's Experiences/Shipwrecked - Amakaru.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -158,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal -  Events/Shipwrecked - Amakaru.md",
+                "file": "Journal on Theo's Experiences/Shipwrecked - Amakaru.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -198,20 +202,23 @@
   },
   "active": "04b7b2144b01eb2a",
   "lastOpenFiles": [
+    "The World/Events/Trial of Salt.md",
+    "The World/Places/Islands of Eilanaat",
+    "Journal on Theo's Experiences/Shipwrecked - Amakaru.md",
+    "The World/Events",
+    "Metagame Notes",
+    "The World/Places/Islands of Eilanaat/Amakaru.md",
+    "The World/Places/Islands of Eilanaat/Portabora.md",
+    "The World/Organizations/Sons of Fire.md",
     "The World/Notable People/NPCs/Crewmates/Roland Dockson.md",
     "The World/Notable People/NPCs/Allies",
     "The World/Notable People/NPCs/Neutral",
     "The World/Notable People/NPCs/Enemies",
     "The World/Notable People/NPCs/Crewmates/Melissa Aligar.md",
     "The World/Notable People/NPCs/Crewmates",
-    "The World/Organizations/Sons of Fire.md",
-    "Journal -  Events/Shipwrecked - Amakaru.md",
     "Metagaming",
     "Opinions & Thoughts",
     "The World",
-    "The World/Creatures",
-    "The World/Organizations",
-    "The World/Places",
     "Welcome.md"
   ]
 }
