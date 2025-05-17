@@ -1,0 +1,4 @@
+---
+aliases:
+  - Leviathan of Amakaru
+---
