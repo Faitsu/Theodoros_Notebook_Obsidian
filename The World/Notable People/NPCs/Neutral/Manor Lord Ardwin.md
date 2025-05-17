@@ -1,0 +1,1 @@
+- Man who owns the mines in Amakaru and the leader of the civilization

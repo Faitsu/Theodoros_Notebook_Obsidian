@@ -12,4 +12,6 @@ _"Our journey continues through Amakaru. There have been barely any signs of lif
 	- There were a few [[Deepspeakers]] who were eating the corpse of the Leviathan and died shortly after. 
 	- Groupmates seemed interested in taking parts of the dead leviathan
 - We traversed through a mine on the way to the Town of Amakaru. There was a [[Lock]] in the mines
-	- [[]] was pulled into the Lock by the mysterious forces from the other side of the door but was stopped before she could go through.
+	- [[Kyrie River Ford|Ford]] was pulled into the Lock by the mysterious forces from the other side of the door but was stopped before she could go through. She  claims she was mind controlled to get pulled into the Lock, but she also expressed interest to talk to the being behind the Lock. 
+	- A mysterious eye looked at the group through a hole in the lock. Does psychic damage
+	- We found a note mentioning Manor Lord Ardwin discussing how the deepspeakers wanted to seal the Lock
