@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session One - Shipwrecked.md",
+                "file": "Journal -  Events/Shipwrecked - Amekaru.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session One - Shipwrecked"
+              "title": "Shipwrecked - Amekaru"
             }
           }
         ]
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session One - Shipwrecked.md",
+                "file": "Journal -  Events/Shipwrecked - Amekaru.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session One - Shipwrecked"
+              "title": "Backlinks for Shipwrecked - Amekaru"
             }
           },
           {
@@ -129,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session One - Shipwrecked.md",
+                "file": "Journal -  Events/Shipwrecked - Amekaru.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Session One - Shipwrecked"
+              "title": "Outgoing links from Shipwrecked - Amekaru"
             }
           },
           {
@@ -158,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session One - Shipwrecked.md",
+                "file": "Journal -  Events/Shipwrecked - Amekaru.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Session One - Shipwrecked"
+              "title": "Outline of Shipwrecked - Amekaru"
             }
           },
           {
@@ -198,7 +198,18 @@
   },
   "active": "04b7b2144b01eb2a",
   "lastOpenFiles": [
+    "Metagaming",
+    "Opinions & Thoughts",
+    "The World",
+    "The World/Creatures",
+    "The World/Organizations",
+    "The World/Places",
+    "The World/Notable People/Players/Private",
+    "The World/Notable People/Players/Regular Notes",
+    "The World/Notable People/Players",
+    "The World/Notable People/NPCs",
+    "The World/Notable People",
     "Welcome.md",
-    "Session One - Shipwrecked.md"
+    "Journal -  Events/Shipwrecked - Amekaru.md"
   ]
 }
