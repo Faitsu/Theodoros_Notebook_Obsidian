@@ -1,7 +1,7 @@
 ---
 aliases:
   - Arrendale
-  - Former captain
+  - former captain
   - informant
 ---
 Captain of the Voyagers. Has planned to organize the group. Kyrie seems to know her.

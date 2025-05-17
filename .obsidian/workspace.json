@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The World/Notable People/NPCs/Crewmates/Sheera Arrendale.md",
+                "file": "Journal on Theo's Experiences/2. Retrieving the Cure & Our Return to Amakaru.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sheera Arrendale"
+              "title": "2. Retrieving the Cure & Our Return to Amakaru"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The World/Notable People/NPCs/Crewmates/Sheera Arrendale.md",
+                "file": "Journal on Theo's Experiences/2. Retrieving the Cure & Our Return to Amakaru.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sheera Arrendale"
+              "title": "Backlinks for 2. Retrieving the Cure & Our Return to Amakaru"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The World/Notable People/NPCs/Crewmates/Sheera Arrendale.md",
+                "file": "Journal on Theo's Experiences/2. Retrieving the Cure & Our Return to Amakaru.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Sheera Arrendale"
+              "title": "Outgoing links from 2. Retrieving the Cure & Our Return to Amakaru"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The World/Notable People/NPCs/Crewmates/Sheera Arrendale.md",
+                "file": "Journal on Theo's Experiences/2. Retrieving the Cure & Our Return to Amakaru.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sheera Arrendale"
+              "title": "Outline of 2. Retrieving the Cure & Our Return to Amakaru"
             }
           },
           {
@@ -197,12 +197,15 @@
   },
   "active": "1380862e787a8b74",
   "lastOpenFiles": [
-    "The World/Notable People/NPCs/Crewmates/Melissa Aligar.md",
+    "The World/Notable People/Players/Regular Notes/Vivienne the Coward.md",
+    "Journal on Theo's Experiences/2. Retrieving the Cure & Our Return to Amakaru.md",
+    "The World/Creatures/Light Bender.md",
+    "The World/Creatures/Displacer Beasts.md",
     "Journal on Theo's Experiences/1. Shipwrecked - Amakaru.md",
+    "The World/Notable People/NPCs/Crewmates/Sheera Arrendale.md",
+    "The World/Notable People/NPCs/Crewmates/Melissa Aligar.md",
     "The World/Notable People/NPCs/Crewmates/Roland Dockson.md",
     "The World/Notable People/NPCs/Allies/Alister Renedee.md",
-    "Journal on Theo's Experiences/2. Retrieving the Cure & Our Return to Amakaru.md",
-    "The World/Notable People/Players/Regular Notes/Vivienne the Coward.md",
     "The World/Mythos/Folklore & Conjecture/The Blight.md",
     "The World/Mythos/Leviathans/The Phantom.md",
     "The World/Mythos/Leviathans/Plaguebringer.md",
@@ -214,7 +217,6 @@
     "The World/Notable People/Players/Regular Notes/Avery Vale.md",
     "The World/Notable People/Players/Regular Notes/Kyrie River Ford.md",
     "The World/Mythos/Folklore & Conjecture/Lock.md",
-    "The World/Notable People/NPCs/Crewmates/Sheera Arrendale.md",
     "The World/Mythos/Mythological People/Alune.md",
     "Blight.md",
     "The World/Mythos/Leviathans",
@@ -222,7 +224,6 @@
     "The World/Organizations/Deepspeakers.md",
     "The World/Organizations/Church of Salt.md",
     "The World/Places/Islands of Eilanaat/Amakaru.md",
-    "The World/Events/Trial of Salt.md",
     "The World/Mythos/Folklore & Conjecture",
     "The World/Mythos/Mythological People",
     "The World/Mythos",
@@ -230,7 +231,6 @@
     "The World/Places/Islands of Eilanaat",
     "The World/Events",
     "Metagame Notes",
-    "The World/Places/Islands of Eilanaat/Portabora.md",
     "The World/Notable People/NPCs/Allies",
     "The World/Notable People/NPCs/Neutral"
   ]
