@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal on Theo's Experiences/5. The Maw of Ouroboros.md",
+                "file": "Journal on Theo's Experiences/4. Trip to the Blockades and Corrolai before the Trials.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. The Maw of Ouroboros"
+              "title": "4. Trip to the Blockades and Corrolai before the Trials"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal on Theo's Experiences/5. The Maw of Ouroboros.md",
+                "file": "Journal on Theo's Experiences/4. Trip to the Blockades and Corrolai before the Trials.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 5. The Maw of Ouroboros"
+              "title": "Outgoing links from 4. Trip to the Blockades and Corrolai before the Trials"
             }
           },
           {
@@ -209,11 +209,17 @@
   },
   "active": "4aad21f8b68e80a8",
   "lastOpenFiles": [
-    "Journal on Theo's Experiences/6. Portabora.md",
     "Journal on Theo's Experiences/5. The Maw of Ouroboros.md",
+    "The World/Creatures/Human Mimic Anglerfish.md",
+    "The World/Creatures/Apparitions of the Leviathans.md",
+    "The World/Organizations/Crews/Storm Chasers.md",
+    "The World/Organizations/Crews/Cat's Eye.md",
+    "The World/Notable People/NPCs/Allies/Cat's Eye Crew",
+    "The World/Organizations/Crews/The Common Cause.md",
+    "The World/Organizations/Crews",
+    "Journal on Theo's Experiences/6. Portabora.md",
     "Journal on Theo's Experiences/4. Trip to the Blockades and Corrolai before the Trials.md",
     "Journal on Theo's Experiences/2. Retrieving the Cure & Our Return to Amakaru.md",
-    "The World/Creatures/Apparitions of the Leviathans.md",
     "Metagame Notes/4.1 Section Notes.md",
     "Journal on Theo's Experiences/7. The Ancient Gates.md",
     "Journal on Theo's Experiences/3. The Sons of Fire Headquarters.md",
@@ -231,10 +237,6 @@
     "The World/Notable People/NPCs/Crewmates/Pasca.md",
     "The World/Mythos/Leviathans/Seraphims.md",
     "The World/Mythos/Leviathans/The Caretaker, Hami'Toa.md",
-    "The World/Mythos/Leviathans/The Phantom.md",
-    "The World/Mythos/Leviathans/The Volcano, Magnibora.md",
-    "The World/Mythos/Mythological Figures/Satiniel.md",
-    "The World/Mythos/Mythological Figures/King of Games.md",
     "The World/Events/Epigraphs",
     "The World/Organizations/Pirates",
     "The World/Places in Iredesca/Xaedria",
@@ -242,8 +244,6 @@
     "The World/Culture",
     "The World/Mythos/Leviathans",
     "The World/Mythos/Folklore & Conjecture",
-    "The World/Mythos/Mythological Figures",
-    "The World/Mythos",
-    "The World/Notable People/Mythical People"
+    "The World/Mythos/Mythological Figures"
   ]
 }
