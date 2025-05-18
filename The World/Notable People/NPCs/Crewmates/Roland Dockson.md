@@ -8,4 +8,4 @@ Specialty: Lookout (No specific fighting ability)
 Hair color: Red
 Height: 
 
-Theo's Colleague
+He revealed to me that he is the prince of Eilanaat
