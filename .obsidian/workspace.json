@@ -11,14 +11,10 @@
             "id": "4aad21f8b68e80a8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal on Theo's Experiences/2. Retrieving the Cure & Our Return to Amakaru.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2. Retrieving the Cure & Our Return to Amakaru"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal on Theo's Experiences/2. Retrieving the Cure & Our Return to Amakaru.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2. Retrieving the Cure & Our Return to Amakaru"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal on Theo's Experiences/2. Retrieving the Cure & Our Return to Amakaru.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2. Retrieving the Cure & Our Return to Amakaru"
+              "title": "Outgoing links"
             }
           },
           {
@@ -142,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal on Theo's Experiences/2. Retrieving the Cure & Our Return to Amakaru.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2. Retrieving the Cure & Our Return to Amakaru"
+              "title": "Outline"
             }
           },
           {
@@ -172,11 +165,27 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
+      },
+      {
+        "id": "604d70fcf03591a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc788ff651d6eb96",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 379.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,32 +202,33 @@
   },
   "active": "4aad21f8b68e80a8",
   "lastOpenFiles": [
+    "Journal on Theo's Experiences/3. The Sons of Fire Headquarters.md",
+    "The World/Notable People/Players/Regular Notes/Avery Vale.md",
+    "The World/Notable People/NPCs/Crewmates/Pasca.md",
+    "The World/Notable People/NPCs/Crewmates/Sheera Arrendale.md",
+    "The World/Notable People/NPCs/Crewmates/Roland Dockson.md",
+    "The World/Notable People/Players/Regular Notes/Vivienne the Coward.md",
+    "The World/Events/Epigraphs",
+    "Journal on Theo's Experiences/2. Retrieving the Cure & Our Return to Amakaru.md",
+    "Journal on Theo's Experiences/1. Shipwrecked - Amakaru.md",
     "Cleric.md",
     "The World/Notable People/NPCs/Neutral/Manor Lord Ardwin.md",
-    "Journal on Theo's Experiences/1. Shipwrecked - Amakaru.md",
-    "The World/Notable People/Players/Regular Notes/Avery Vale.md",
-    "Journal on Theo's Experiences/2. Retrieving the Cure & Our Return to Amakaru.md",
     "The World/Mythos/Leviathans/Plaguebringer.md",
     "The World/Mythos/Leviathans/Seraphims.md",
     "The World/Events/Trial of Salt.md",
     "The World/Organizations/Deepspeakers.md",
     "The World/Notable People/NPCs/Crewmates/Boblin the Goblin.md",
-    "Journal on Theo's Experiences/3. The Sons of Fire Headquarters.md",
     "mother.md",
     "The World/Notable People/NPCs/Crewmates/Gerald Sungaze.md",
-    "The World/Notable People/NPCs/Crewmates/Pasca.md",
     "The World/Organizations/Pirates/The Sullen.md",
     "Margrave,.md",
     "The World/Places in Iredesca/Islands of Eilanaat/Margrave.md",
     "The World/Notable People/NPCs/Crewmates/Melissa Aligar.md",
-    "The World/Notable People/NPCs/Crewmates/Sheera Arrendale.md",
-    "The World/Notable People/NPCs/Crewmates/Roland Dockson.md",
     "The World/Notable People/NPCs/Neutral/Mother Ashana.md",
     "The World/Places in Iredesca/Xaedria/Xaedria.md",
     "The World/Notable People/NPCs/Allies/Alister Renedee.md",
     "Vale.md",
     "The World/Notable People/NPCs/Allies/Bishop Darius.md",
-    "The World/Organizations/Pirates/Blood Rippers.md",
     "The World/Organizations/Pirates",
     "The World/Places in Iredesca/Xaedria",
     "The World/Culture/Untitled",
@@ -227,7 +237,6 @@
     "The World/Mythos/Folklore & Conjecture",
     "The World/Mythos/Mythological Figures",
     "The World/Mythos",
-    "The World/Notable People/Mythical People",
-    "The World/Places in Iredesca/Islands of Eilanaat"
+    "The World/Notable People/Mythical People"
   ]
 }
