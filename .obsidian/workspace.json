@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal on Theo's Experiences/7. The Ancient Gates.md",
+                "file": "Journal on Theo's Experiences/6. Portabora.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. The Ancient Gates"
+              "title": "6. Portabora"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal on Theo's Experiences/7. The Ancient Gates.md",
+                "file": "Journal on Theo's Experiences/6. Portabora.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 7. The Ancient Gates"
+              "title": "Outgoing links from 6. Portabora"
             }
           },
           {
@@ -209,8 +209,9 @@
   },
   "active": "4aad21f8b68e80a8",
   "lastOpenFiles": [
-    "Journal on Theo's Experiences/6. Portabora.md",
     "Journal on Theo's Experiences/5. The Maw of Ouroboros.md",
+    "Journal on Theo's Experiences/6. Portabora.md",
+    "Journal on Theo's Experiences/7. The Ancient Gates.md",
     "Journal on Theo's Experiences/3. The Sons of Fire Headquarters.md",
     "Journal on Theo's Experiences/2. Retrieving the Cure & Our Return to Amakaru.md",
     "The World/Events/Epigraphs/Act 2 - The Trial of Salt.md",
@@ -232,7 +233,6 @@
     "The World/Organizations/Crews/The Common Cause.md",
     "The World/Organizations/Crews",
     "Metagame Notes/4.1 Section Notes.md",
-    "Journal on Theo's Experiences/7. The Ancient Gates.md",
     "The World/Notable People/NPCs/Crewmates/Roland Dockson.md",
     "The World/Notable People/NPCs/Crewmates/Boblin the Goblin.md",
     "The World/Notable People/NPCs/Crewmates/Gerald Sungaze.md",
