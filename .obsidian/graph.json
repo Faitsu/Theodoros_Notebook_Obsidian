@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"Journal on Theo's Experiences\"  ",
@@ -78,16 +78,16 @@
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -0.3,
-  "nodeSizeMultiplier": 1.40904365904366,
+  "nodeSizeMultiplier": 1.55930353430353,
   "lineSizeMultiplier": 1.95914760914761,
   "collapse-forces": false,
   "centerStrength": 0.547297297297297,
   "repelStrength": 9.44906444906445,
   "linkStrength": 1,
   "linkDistance": 281,
-  "scale": 0.3823010968770016,
+  "scale": 0.38230109687700187,
   "close": false
 }

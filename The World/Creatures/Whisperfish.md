@@ -1,0 +1,1 @@
+Fish that live in the deep ocean that lure prey by mimic sounds and voices. They seem to have the ability to force people to fight for them
