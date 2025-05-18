@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal on Theo's Experiences/3. The Sons of Fire Headquarters.md",
+                "file": "Journal on Theo's Experiences/2. Retrieving the Cure & Our Return to Amakaru.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. The Sons of Fire Headquarters"
+              "title": "2. Retrieving the Cure & Our Return to Amakaru"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal on Theo's Experiences/3. The Sons of Fire Headquarters.md",
+                "file": "Journal on Theo's Experiences/2. Retrieving the Cure & Our Return to Amakaru.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 3. The Sons of Fire Headquarters"
+              "title": "Backlinks for 2. Retrieving the Cure & Our Return to Amakaru"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal on Theo's Experiences/3. The Sons of Fire Headquarters.md",
+                "file": "Journal on Theo's Experiences/2. Retrieving the Cure & Our Return to Amakaru.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 3. The Sons of Fire Headquarters"
+              "title": "Outgoing links from 2. Retrieving the Cure & Our Return to Amakaru"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal on Theo's Experiences/3. The Sons of Fire Headquarters.md",
+                "file": "Journal on Theo's Experiences/2. Retrieving the Cure & Our Return to Amakaru.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3. The Sons of Fire Headquarters"
+              "title": "Outline of 2. Retrieving the Cure & Our Return to Amakaru"
             }
           },
           {
@@ -209,8 +209,8 @@
   },
   "active": "4aad21f8b68e80a8",
   "lastOpenFiles": [
-    "Journal on Theo's Experiences/1. Shipwrecked - Amakaru.md",
     "Journal on Theo's Experiences/3. The Sons of Fire Headquarters.md",
+    "Journal on Theo's Experiences/1. Shipwrecked - Amakaru.md",
     "The World/Notable People/NPCs/Enemies/General Vinn.md",
     "The World/Places in Iredesca/Islands of Eilanaat/Margrave.md",
     "The World/Notable People/NPCs/Enemies/Lady of Flames.md",
