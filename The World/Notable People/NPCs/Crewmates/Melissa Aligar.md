@@ -1,7 +1,7 @@
 ---
 aliases:
-  - the priest
   - Aligar
+  - Cleric
 ---
  A cleric from the [[Church of Salt]] who was recruited to be the church's representative for the Voyager for the [[Trial of Salt]]
  

@@ -11,14 +11,70 @@
       "query": "path:\"Journal on Theo's Experiences\"  ",
       "color": {
         "a": 1,
-        "rgb": 10079999
+        "rgb": 4526192
       }
     },
     {
-      "query": "",
+      "query": "path:\"The World/Creatures\"  ",
       "color": {
         "a": 1,
-        "rgb": 1653176
+        "rgb": 3561171
+      }
+    },
+    {
+      "query": "path:\"The World/Notable People/NPCs\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8571278
+      }
+    },
+    {
+      "query": "path:\"The World/Notable People/Players\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 2252821
+      }
+    },
+    {
+      "query": "path:\"The World/Organizations\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 7522783
+      }
+    },
+    {
+      "query": "path:\"The World/Mythos/Folklore & Conjecture\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 1136095
+      }
+    },
+    {
+      "query": "path:\"The World/Mythos/Leviathans\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 592262
+      }
+    },
+    {
+      "query": "path:\"The World/Mythos/Mythological Figures\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16118712
+      }
+    },
+    {
+      "query": "path:\"The World/Organizations/Pirates\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 12268853
+      }
+    },
+    {
+      "query": "path:\"The World/Places in Iredesca/Islands of Eilanaat\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
       }
     }
   ],
@@ -32,6 +88,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.0000000000000027,
+  "scale": 0.7132754626224458,
   "close": false
 }
