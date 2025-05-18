@@ -4,9 +4,10 @@ aliases:
   - Cleric
 ---
  Age: 26
+ Race: Human
+ Specialty: ??? Cleric 
  Hair Color: Black
  Height: Around Vale's height
- Specialty: ??? Cleric 
  
  A cleric from the [[Church of Salt]] who was recruited to be the church's representative for the Voyager for the [[Trial of Salt]]
 ### Notable Relationships 
