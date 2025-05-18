@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal on Theo's Experiences/2. Retrieving the Cure & Our Return to Amakaru.md",
+                "file": "Journal on Theo's Experiences/1. Shipwrecked - Amakaru.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Retrieving the Cure & Our Return to Amakaru"
+              "title": "1. Shipwrecked - Amakaru"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal on Theo's Experiences/2. Retrieving the Cure & Our Return to Amakaru.md",
+                "file": "Journal on Theo's Experiences/1. Shipwrecked - Amakaru.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2. Retrieving the Cure & Our Return to Amakaru"
+              "title": "Backlinks for 1. Shipwrecked - Amakaru"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal on Theo's Experiences/2. Retrieving the Cure & Our Return to Amakaru.md",
+                "file": "Journal on Theo's Experiences/1. Shipwrecked - Amakaru.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2. Retrieving the Cure & Our Return to Amakaru"
+              "title": "Outgoing links from 1. Shipwrecked - Amakaru"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal on Theo's Experiences/2. Retrieving the Cure & Our Return to Amakaru.md",
+                "file": "Journal on Theo's Experiences/1. Shipwrecked - Amakaru.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2. Retrieving the Cure & Our Return to Amakaru"
+              "title": "Outline of 1. Shipwrecked - Amakaru"
             }
           },
           {
@@ -182,11 +182,12 @@
   },
   "active": "04b7b2144b01eb2a",
   "lastOpenFiles": [
+    "Journal on Theo's Experiences/2. Retrieving the Cure & Our Return to Amakaru.md",
+    "The World/Notable People/NPCs/Allies/Bishop Darius.md",
     "The World/Organizations/Pirates/Blood Rippers.md",
     "The World/Organizations/Pirates/The Sullen.md",
     "Vale.md",
     "The World/Organizations/Pirates/Mind Melters.md",
-    "Journal on Theo's Experiences/2. Retrieving the Cure & Our Return to Amakaru.md",
     "The World/Mythos/Leviathans/The Caretaker, Hami'Toa.md",
     "Journal on Theo's Experiences/1. Shipwrecked - Amakaru.md",
     "The World/Organizations/Pirates",
@@ -211,7 +212,6 @@
     "The World/Mythos/Leviathans/The Volcano, Magnibora.md",
     "The World/Mythos/Leviathans/Seraphims.md",
     "The World/Notable People/NPCs/Neutral/Manor Lord Ardwin.md",
-    "The World/Notable People/Players/Regular Notes/Lemuel Sanguine.md",
     "The World/Mythos/Leviathans",
     "The World/Mythos/Folklore & Conjecture",
     "The World/Mythos/Mythological Figures",
