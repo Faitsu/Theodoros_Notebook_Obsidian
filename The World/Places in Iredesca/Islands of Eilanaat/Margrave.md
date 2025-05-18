@@ -1,0 +1,4 @@
+- **Island of Margrave Landmarks:**
+    - There is an abandoned village with a bunch of undead
+    - Satellite Island holds an old wizard tower
+    - Town in Margrave that is home to many pirates
