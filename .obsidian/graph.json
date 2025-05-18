@@ -39,7 +39,7 @@
       "query": "path:\"The World/Organizations\"  ",
       "color": {
         "a": 1,
-        "rgb": 7522783
+        "rgb": 6268857
       }
     },
     {
@@ -88,6 +88,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5359795996225973,
+  "scale": 0.7514342322277646,
   "close": false
 }
