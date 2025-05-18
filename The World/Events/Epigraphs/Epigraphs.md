@@ -1,0 +1,4 @@
+---
+aliases:
+  - Strange Stories
+---
