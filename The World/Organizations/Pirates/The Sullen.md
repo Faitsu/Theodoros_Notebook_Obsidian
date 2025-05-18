@@ -1,3 +1,7 @@
+---
+aliases:
+  - Sullen
+---
 - The group consists mainly of the undead and necromancers
 - Recruit people by killing them and having their undead body/spirit join the crew (forcefully)
     - Led by Lich King Uriman

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal on Theo's Experiences/2. Retrieving the Cure & Our Return to Amakaru.md",
+                "file": "Journal on Theo's Experiences/3. The Sons of Fire Headquarters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Retrieving the Cure & Our Return to Amakaru"
+              "title": "3. The Sons of Fire Headquarters"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal on Theo's Experiences/2. Retrieving the Cure & Our Return to Amakaru.md",
+                "file": "Journal on Theo's Experiences/3. The Sons of Fire Headquarters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2. Retrieving the Cure & Our Return to Amakaru"
+              "title": "Backlinks for 3. The Sons of Fire Headquarters"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal on Theo's Experiences/2. Retrieving the Cure & Our Return to Amakaru.md",
+                "file": "Journal on Theo's Experiences/3. The Sons of Fire Headquarters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2. Retrieving the Cure & Our Return to Amakaru"
+              "title": "Outgoing links from 3. The Sons of Fire Headquarters"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal on Theo's Experiences/2. Retrieving the Cure & Our Return to Amakaru.md",
+                "file": "Journal on Theo's Experiences/3. The Sons of Fire Headquarters.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2. Retrieving the Cure & Our Return to Amakaru"
+              "title": "Outline of 3. The Sons of Fire Headquarters"
             }
           },
           {
@@ -193,9 +193,15 @@
   },
   "active": "4aad21f8b68e80a8",
   "lastOpenFiles": [
+    "mother.md",
     "Journal on Theo's Experiences/3. The Sons of Fire Headquarters.md",
-    "The World/Places in Iredesca/Islands of Eilanaat/Margrave.md",
+    "The World/Notable People/NPCs/Crewmates/Boblin the Goblin.md",
+    "The World/Notable People/NPCs/Crewmates/Gerald Sungaze.md",
+    "The World/Notable People/NPCs/Crewmates/Pasca.md",
+    "The World/Organizations/Pirates/The Sullen.md",
+    "Margrave,.md",
     "Journal on Theo's Experiences/2. Retrieving the Cure & Our Return to Amakaru.md",
+    "The World/Places in Iredesca/Islands of Eilanaat/Margrave.md",
     "The World/Notable People/NPCs/Crewmates/Melissa Aligar.md",
     "The World/Notable People/NPCs/Crewmates/Sheera Arrendale.md",
     "The World/Notable People/NPCs/Crewmates/Roland Dockson.md",
@@ -207,7 +213,6 @@
     "Journal on Theo's Experiences/1. Shipwrecked - Amakaru.md",
     "The World/Notable People/NPCs/Allies/Bishop Darius.md",
     "The World/Organizations/Pirates/Blood Rippers.md",
-    "The World/Organizations/Pirates/The Sullen.md",
     "The World/Organizations/Pirates/Mind Melters.md",
     "The World/Mythos/Leviathans/The Caretaker, Hami'Toa.md",
     "The World/Organizations/Pirates",
@@ -218,11 +223,6 @@
     "The World/Mythos/Mythological Figures/King of Games.md",
     "The World/Culture/Untitled",
     "The World/Culture",
-    "The World/Notable People/Players/Regular Notes/Vivienne the Coward.md",
-    "The World/Creatures/Light Bender.md",
-    "The World/Creatures/Displacer Beasts.md",
-    "The World/Mythos/Folklore & Conjecture/The Blight.md",
-    "The World/Mythos/Leviathans/The Phantom.md",
     "The World/Mythos/Leviathans",
     "The World/Mythos/Folklore & Conjecture",
     "The World/Mythos/Mythological Figures",
