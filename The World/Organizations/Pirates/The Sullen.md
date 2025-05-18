@@ -4,5 +4,5 @@
 
 ### Encounters with The Sullen
 -  Our group ran into a seemingly abandoned ship but found that the Sullen had invaded it and turned the crew into the undead.
-    - [[Kyrie River Ford|Ford]] tried to negotiate the Sullen, but [[Vale]] and I intervened and we took down the Sullen
-    - Their souls seemed to have escaped
+    - [[Kyrie River Ford|Ford]] tried to negotiate the Sullen, but [[Avery Vale|Vale]] and I intervened and we took down the Sullen
+    - Their soul seemed to have escaped
