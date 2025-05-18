@@ -1,3 +1,3 @@
-- Man who owns the mines in Amakaru and the leader of the civilization
+- Man who owns the mines in [[Amakaru]] and the leader of the civilization
 - [[Sheera Arrendale]] strong armed Ardwin into giving her a ship and helping her get a crew together for the [[Trial of Salt]]
 - He left [[Amakaru]] weeks ago and tends to travel away from the island
