@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal on Theo's Experiences/2. Retrieving the Cure & Our Return to Amakaru.md",
+                "file": "Vale.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Retrieving the Cure & Our Return to Amakaru"
+              "title": "Vale"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal on Theo's Experiences/2. Retrieving the Cure & Our Return to Amakaru.md",
+                "file": "Vale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2. Retrieving the Cure & Our Return to Amakaru"
+              "title": "Backlinks for Vale"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal on Theo's Experiences/2. Retrieving the Cure & Our Return to Amakaru.md",
+                "file": "Vale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2. Retrieving the Cure & Our Return to Amakaru"
+              "title": "Outgoing links from Vale"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal on Theo's Experiences/2. Retrieving the Cure & Our Return to Amakaru.md",
+                "file": "Vale.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2. Retrieving the Cure & Our Return to Amakaru"
+              "title": "Outline of Vale"
             }
           },
           {
@@ -197,8 +197,16 @@
   },
   "active": "1380862e787a8b74",
   "lastOpenFiles": [
-    "The World/Notable People/NPCs/Allies/Alister Renedee.md",
+    "The World/Organizations/Pirates/The Sullen.md",
+    "Vale.md",
+    "The World/Organizations/Pirates/Mind Melters.md",
+    "The World/Organizations/Pirates/Blood Rippers.md",
     "Journal on Theo's Experiences/2. Retrieving the Cure & Our Return to Amakaru.md",
+    "The World/Organizations/Pirates",
+    "The World/Places in Iredesca/Xaedria/Xaedria.md",
+    "The World/Places in Iredesca/Xaedria.md",
+    "The World/Places in Iredesca/Xaedria",
+    "The World/Notable People/NPCs/Allies/Alister Renedee.md",
     "Journal on Theo's Experiences/1. Shipwrecked - Amakaru.md",
     "The World/Mythos/Mythological Figures/Lii.md",
     "The World/Mythos/Mythological Figures/Era.md",
@@ -219,19 +227,11 @@
     "The World/Mythos/Leviathans/Seraphims.md",
     "The World/Notable People/NPCs/Neutral/Manor Lord Ardwin.md",
     "The World/Notable People/Players/Regular Notes/Lemuel Sanguine.md",
-    "The World/Notable People/Players/Regular Notes/Avery Vale.md",
-    "The World/Notable People/Players/Regular Notes/Kyrie River Ford.md",
-    "The World/Mythos/Folklore & Conjecture/Lock.md",
-    "The World/Mythos/Mythological Figures/Alune.md",
-    "Blight.md",
     "The World/Mythos/Leviathans",
-    "The World/Organizations/United Natural Order Coalition.md",
     "The World/Mythos/Folklore & Conjecture",
     "The World/Mythos/Mythological Figures",
     "The World/Mythos",
     "The World/Notable People/Mythical People",
-    "The World/Places/Islands of Eilanaat",
-    "The World/Events",
-    "Metagame Notes"
+    "The World/Places in Iredesca/Islands of Eilanaat"
   ]
 }
