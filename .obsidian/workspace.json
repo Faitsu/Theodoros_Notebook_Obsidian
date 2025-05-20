@@ -11,10 +11,10 @@
             "id": "daeffaec707b9c04",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -167,7 +167,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "604d70fcf03591a2",
@@ -204,11 +204,13 @@
   },
   "active": "daeffaec707b9c04",
   "lastOpenFiles": [
+    "Journal on Theo's Experiences/1. Shipwrecked - Amakaru.md",
+    "The World/Notable People/Players/Regular Notes/Vivienne the Coward.md",
+    "The World/Organizations/Sons of Fire.md",
     "Journal on Theo's Experiences/6. Portabora.md",
     "Journal on Theo's Experiences/5. The Maw of Ouroboros.md",
     "Journal on Theo's Experiences/4. Trip to the Blockades and Corrolai before the Trials.md",
     "Journal on Theo's Experiences/3. The Sons of Fire Headquarters.md",
-    "Journal on Theo's Experiences/1. Shipwrecked - Amakaru.md",
     "Journal on Theo's Experiences/2. Retrieving the Cure & Our Return to Amakaru.md",
     "Journal on Theo's Experiences/7. The Ancient Gates.md",
     "The World/Events/Epigraphs/Act 2 - The Trial of Salt.md",
@@ -219,7 +221,6 @@
     "The World/Mythos/Mythological Figures/Other",
     "The World/Mythos/Mythological Figures/The Prisoners",
     "The World/Mythos/Mythological Figures/The Cultivators",
-    "The World/Notable People/Players/Regular Notes/Vivienne the Coward.md",
     "The World/Creatures/Human Mimic Anglerfish.md",
     "The World/Creatures/Apparitions of the Leviathans.md",
     "The World/Organizations/Crews/Storm Chasers.md",
@@ -234,7 +235,6 @@
     "The World/Notable People/Players/Regular Notes/Kyrie River Ford.md",
     "The World/Notable People/Players/Regular Notes/Avery Vale.md",
     "The World/Notable People/NPCs/Neutral/Manor Lord Ardwin.md",
-    "The World/Notable People/NPCs/Enemies/Lady of Flames.md",
     "The World/Events/Epigraphs",
     "The World/Organizations/Pirates",
     "The World/Places in Iredesca/Xaedria",
