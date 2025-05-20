@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fec434c58fe74418",
+        "id": "d1d7f118d69d4728",
         "type": "tabs",
         "children": [
           {
-            "id": "4aad21f8b68e80a8",
+            "id": "daeffaec707b9c04",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal on Theo's Experiences/6. Portabora.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "6. Portabora"
+              "title": "New tab"
             }
           }
         ]
@@ -113,12 +109,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal on Theo's Experiences/6. Portabora.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 6. Portabora"
+              "title": "Outgoing links"
             }
           },
           {
@@ -207,14 +202,14 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "4aad21f8b68e80a8",
+  "active": "daeffaec707b9c04",
   "lastOpenFiles": [
+    "Journal on Theo's Experiences/6. Portabora.md",
     "Journal on Theo's Experiences/5. The Maw of Ouroboros.md",
     "Journal on Theo's Experiences/4. Trip to the Blockades and Corrolai before the Trials.md",
     "Journal on Theo's Experiences/3. The Sons of Fire Headquarters.md",
     "Journal on Theo's Experiences/1. Shipwrecked - Amakaru.md",
     "Journal on Theo's Experiences/2. Retrieving the Cure & Our Return to Amakaru.md",
-    "Journal on Theo's Experiences/6. Portabora.md",
     "Journal on Theo's Experiences/7. The Ancient Gates.md",
     "The World/Events/Epigraphs/Act 2 - The Trial of Salt.md",
     "The World/Events/Epigraphs/Act 1 - Mornings of Scarlet.md",
