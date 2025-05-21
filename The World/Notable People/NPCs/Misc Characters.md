@@ -1,2 +1,3 @@
 **Sylas:** "Tapestry" Dealer from our trip to Corrolai
-**Bevry**: Random merchant in Azir Enorre
+**Bevry (Actually Jeremy)**: Random merchant in Azir Enorre
+**Second Warden Severy**: Random police officer at Azir Enorre
