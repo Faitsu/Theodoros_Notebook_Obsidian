@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d1d7f118d69d4728",
+        "id": "4dc493e2e5b9902b",
         "type": "tabs",
         "children": [
           {
-            "id": "daeffaec707b9c04",
+            "id": "322a8a216c5aa909",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal on Theo's Experiences/7. The Ancient Gates.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "7. The Ancient Gates"
+              "title": "New tab"
             }
           }
         ]
@@ -216,14 +212,14 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "daeffaec707b9c04",
+  "active": "322a8a216c5aa909",
   "lastOpenFiles": [
+    "Journal on Theo's Experiences/7. The Ancient Gates.md",
     "Journal on Theo's Experiences/1. Shipwrecked - Amakaru.md",
     "Journal on Theo's Experiences/2. Retrieving the Cure & Our Return to Amakaru.md",
     "Journal on Theo's Experiences/3. The Sons of Fire Headquarters.md",
     "Journal on Theo's Experiences/5. The Maw of Ouroboros.md",
     "Journal on Theo's Experiences/6. Portabora.md",
-    "Journal on Theo's Experiences/7. The Ancient Gates.md",
     "Journal on Theo's Experiences/4. Trip to the Blockades and Corrolai before the Trials.md",
     "The World/Notable People/NPCs/Misc Characters.md",
     "The World/Organizations/United Natural Order Coalition.md",
