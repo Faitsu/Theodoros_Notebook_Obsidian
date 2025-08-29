@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The World/Notable People/NPCs/Crewmates/Melissa Aligar.md",
+                "file": "Journal on Theo's Experiences/8. Battlefield.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Melissa Aligar"
+              "title": "Outline of 8. Battlefield"
             }
           },
           {
@@ -194,9 +194,19 @@
               "icon": "dices",
               "title": "Dice Tray"
             }
+          },
+          {
+            "id": "7a39c10650d3bb13",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       },
       {
         "id": "604d70fcf03591a2",
@@ -216,7 +226,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 512.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,7 +242,7 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "0e95eff4e7c51137",
+  "active": "bc788ff651d6eb96",
   "lastOpenFiles": [
     "Journal on Theo's Experiences/6. Portabora.md",
     "The World/Places in Iredesca/Islands of Eilanaat/Blockade.md",
