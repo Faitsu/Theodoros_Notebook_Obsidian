@@ -25,12 +25,14 @@
             "id": "0e95eff4e7c51137",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.12"
+                "file": "Journal on Theo's Experiences/8. Battlefield.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
+              "icon": "lucide-file",
+              "title": "8. Battlefield"
             }
           }
         ],
@@ -232,6 +234,7 @@
   },
   "active": "0e95eff4e7c51137",
   "lastOpenFiles": [
+    "Journal on Theo's Experiences/6. Portabora.md",
     "The World/Places in Iredesca/Islands of Eilanaat/Blockade.md",
     "The World/Places in Iredesca/Islands of Eilanaat/Amakaru.md",
     "The World/Places in Iredesca/Xaedria/Xaedria.md",
@@ -246,7 +249,6 @@
     "Journal on Theo's Experiences/1. Shipwrecked - Amakaru.md",
     "Journal on Theo's Experiences/2. Retrieving the Cure & Our Return to Amakaru.md",
     "Journal on Theo's Experiences/3. The Sons of Fire Headquarters.md",
-    "Journal on Theo's Experiences/6. Portabora.md",
     "Journal on Theo's Experiences/8. Battlefield.md",
     "Journal on Theo's Experiences/4. Trip to the Blockades and Corrolai before the Trials.md",
     "The World/Notable People/NPCs/Misc Characters.md",
