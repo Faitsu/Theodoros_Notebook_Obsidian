@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Corrolai"
             }
+          },
+          {
+            "id": "0e95eff4e7c51137",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,6 +218,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -216,7 +230,7 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "322a8a216c5aa909",
+  "active": "0e95eff4e7c51137",
   "lastOpenFiles": [
     "The World/Places in Iredesca/Islands of Eilanaat/Blockade.md",
     "The World/Places in Iredesca/Islands of Eilanaat/Amakaru.md",
